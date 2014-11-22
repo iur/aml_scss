@@ -20,7 +20,11 @@
     <header><h1>teste</h1></header>
     <aside><h2>Menu Lateral</h2></aside>
 
-    <footer><p>rodape</p></footer>
+	<section>
+		<footer>
+			<p>teste funcional ultimo</p>
+		</footer>
+	</section>
 
 </body>
 </html>
