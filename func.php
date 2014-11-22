@@ -20,5 +20,7 @@
     <header><h1>teste</h1></header>
     <aside><h2>Menu Lateral</h2></aside>
 
+    <footer><p>rodape</p></footer>
+
 </body>
 </html>
